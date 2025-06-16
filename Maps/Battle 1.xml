@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level mapname="Battle 1" maptype="Single Player" maxplayers="2" battleBG="" musictrack="" winAura="0" winMorale="0" lossMorale="0" nextbattle="" defeatScene="" saveable="true" procgen="false" campaign="RL_ZL_01" lastEdited="6/16/2025 11:58:30 AM">
+
+	<Army num="0" AI="false" aiProfile="Default" name="Army 1" color="Blue" alliedWith="" assignRoster="-1"></Army>
+	<Army num="1" AI="true" aiProfile="Default" name="Army 2" color="Red" alliedWith="" assignRoster="-1"></Army>
+	
+	<Condition>Defeat Army,0,1</Condition>
+	
+	<Tileset>01,Grass</Tileset>
+	
+	<Row>01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01</Row>
+	<Row>01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01</Row>
+	<Row>01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01</Row>
+	<Row>01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01</Row>
+	<Row>01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01</Row>
+	<Row>01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01</Row>
+	<Row>01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01</Row>
+	<Row>01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01,01.01</Row>
+	
+	<RowElev>1,1,1,1,1,1,1,1,1,1,1,1</RowElev>
+	<RowElev>1,1,1,1,1,1,1,1,1,1,1,1</RowElev>
+	<RowElev>1,1,1,1,1,1,1,1,1,1,1,1</RowElev>
+	<RowElev>1,1,1,1,1,1,1,1,1,1,1,1</RowElev>
+	<RowElev>1,1,1,1,1,1,1,1,1,1,1,1</RowElev>
+	<RowElev>1,1,1,1,1,1,1,1,1,1,1,1</RowElev>
+	<RowElev>1,1,1,1,1,1,1,1,1,1,1,1</RowElev>
+	<RowElev>1,1,1,1,1,1,1,1,1,1,1,1</RowElev>
+	
+	<Unit>0,0,Emma/Strider,7,4,Up,None</Unit>
+	<Unit>0,0,Sabrina/Strider,7,6,Up,None</Unit>
+	<Unit>0,0,Des/Serret,7,8,Up,None</Unit>
+	<Unit>0,1,Farasat/Hashmal,0,4,Down,None</Unit>
+	<Unit>0,1,Gavrielle/Hashmal,0,6,Down,None</Unit>
+	<Unit>0,1,Louise/Legerdemain,0,8,Down,None</Unit>
+
+</Level>

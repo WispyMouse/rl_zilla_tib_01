@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CampaignInfo>
+
+	<Name txt="RL_ZL_01"></Name>
+	
+	<Description txt="Collaboration between Rat Lantern and Zilla. #01"></Description>
+	
+	<FirstScene txt="Introduction"></FirstScene>
+
+</CampaignInfo>
